@@ -163,7 +163,7 @@ body {
 
 #corona {
   background: #282728;
-  padding: 7px;
+height: 51px;
   }
 
 
@@ -180,7 +180,10 @@ body {
   margin: 0 auto;
   overflow: hidden;
 }
-
+.inner-corona {
+  position: relative;
+  margin: 0 auto;
+}
 @media (min-width: 1px) {
   .inner {
     width: auto;
