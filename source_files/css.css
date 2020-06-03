@@ -44,6 +44,11 @@
 .tsc-phase-banner-content-tag {
     margin-right: 10px;
 }
+.tsc-banner-text {
+	font-family: "nta", Arial, sans-serif;
+    text-transform: none;
+    font-size: 18px;
+ }
 .black-banner-worldwide {
   border-style: solid;
   background: #282728;
